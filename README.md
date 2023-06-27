@@ -27,4 +27,5 @@
 <br> 
 <br> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boltx393&show_icons=true&locale=en&layout=compact" alt="boltx393" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boltx393&show_icons=true&locale=en" alt="boltx393" /></p>
