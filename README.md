@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aayushx393" target="blank"><img src="https://img.shields.io/twitter/follow/aayushx393?logo=twitter&style=for-the-badge" alt="aayushx393" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend development**
+- 🔭 I’m currently working on https://github.com/boltx393/stockMarketApp
 
 - 🌱 I’m currently learning **Machine Learning**
 
