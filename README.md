@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🔭 Currently developing a <a href = "https://github.com/boltx393/cautious-octo-guide">**Octo-Bot**</a> a discord with various functionalities to enhance user experience and engagement. 
+- 🔭 Currently developing <a href = "https://github.com/boltx393/cautious-octo-guide">**Octo-Bot**</a> a discord with various functionalities to enhance user experience and engagement. 
 - 🌱 Actively learning **Machine Learning** and **Full Stack Development** to enhance my skills and knowledge.
 - 🛠️ Proficient in Java, Python, JavaScript, and HTML/CSS, with hands-on experience in frameworks like React and Flask.
 - ⚙️ Interested in exploring **Quantum Computing** and its applications in modern technology.
